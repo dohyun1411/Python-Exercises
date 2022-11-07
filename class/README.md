@@ -163,6 +163,10 @@ Cannot craete a triangle with
 True
 ```
 
+### Hint
+* 삼각형의 넓이를 구하는 8가지 방법: https://miho273.tistory.com/28
+
+
 ## Problem 3
 클래스를 이용하여 N차원 도형을 구현해보자. (단, N은 2이상 10 이하의 자연수)
 
