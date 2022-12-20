@@ -17,5 +17,5 @@
 7. 이때, 가장 왼 쪽 줄이 일요일을 나타내며 차례로 월, 화, 수, 목, 금 그리고 토요일을 나타낸다.
 
 ## Hint
-* 년도는 1000년부터 9999년까지만 테스트하니 복잡하게 구현하지 말자.
+* 테스트는 1000년 1월 1일부터 9999년 12월 31일까지만 한다.
 * 어떤 년도가 윤년인지 확인하는 방법: https://learn.microsoft.com/ko-kr/office/troubleshoot/excel/determine-a-leap-year
